@@ -1,0 +1,121 @@
+.opcionesContainer{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.opciones{
+    display: flex;
+    margin-bottom: 51px;
+    list-style: none;
+}
+
+.listHead{
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    color: #F67B12;
+    margin-left: 43px;
+}
+
+.listElement{
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    color: #C1C1C1;
+    margin-left: 43px;
+}
+
+.direccionContainer{
+    margin: 0 auto;
+    width: 90%;
+    height: 406px;
+    display: flex;
+    border-radius: 25px;
+    box-shadow: 3px 5px 12px 2px lightgray;
+    margin-bottom: 50px;
+}
+
+.direccionMain{
+    margin-left: 59px;
+}
+
+.vivienda{
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+}
+
+.direccion,
+.colonia,
+.ciudad,
+.cp{
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: -10px;
+}
+
+.options{
+    width: auto;
+    display: flex;
+    margin-top: 345px;
+    margin-left: 285px;
+}
+
+.editMain,
+.deleteMain{
+    display: flex;
+}
+
+.editMain{
+    margin-right: 40px;
+}
+
+.editMain h4,
+.deleteMain h4{
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    color: #1E1E1E;
+    line-height: 0px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-left: 21.52px;
+}
+
+.editMain a,
+.deleteMain a{
+    text-decoration: none;
+}
+
+
+.imgEdit{
+    width: 38.48px;
+    height: 38.42px;
+}
+
+.imgDelete{
+    width: 35.56px;
+    height: 40px;
+}
+
+.predeterminadaMain{
+    width: auto;
+    height: 45px;
+    display: flex;
+    position: relative;
+    left: 622px;
+    top: 20px;
+}
+
+.predeterminadaMain h4{
+    font-family: 'Inter', sans-serif;
+    font-size: 22px;
+    color: #C1C1C1;
+    margin: 0 auto;
+    margin-top: 6px;
+}
+
+.check{
+    margin-left: 5px;
+}
